@@ -7,7 +7,7 @@ I'm going to learn how to use an Arduino, and make awesome things with it!
 * [HelloArduino](#HelloArduino)
 * [FiniteLEDBlink](#FiniteLEDBlink)
 
-## Hello Arduino
+## HelloArduino
 
 ### Description & Code
 
@@ -18,7 +18,7 @@ I'm going to learn how to use an Arduino, and make awesome things with it!
 ### Reflection
 
 
-## Finite LED Blink
+## FiniteLEDBlink
 
 ### Description & Code
 
