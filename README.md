@@ -13,17 +13,17 @@ I'm going to learn how to use an Arduino, and make awesome things with it!
 
 ```C++
 
-  Blink code goes here!!  // random comment for no reason...
-
 ```
 
 ### Evidence
 [Here is my code on Arduino Create](https://create.arduino.cc/editor/helmstk1/9a3831dd-4b86-42f2-be49-c28b84874092/preview)
 
 ### Image or Wiring
+<img src="http://troybaverstock.com/wp-content/uploads/2019/04/arduino-servo-button-red-green-RGB-LED-wiring-diagram.png" width="300px" /> 
+
 
 ### Reflection
-
+write a reflection here, remember that it should be usefull, not a diary entry.
 
 ## FiniteLEDBlink
 
