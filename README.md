@@ -20,6 +20,7 @@ I'm going to learn how to use an Arduino, and make awesome things with it!
 
 ### Image or Wiring
 <img src="http://troybaverstock.com/wp-content/uploads/2019/04/arduino-servo-button-red-green-RGB-LED-wiring-diagram.png" width="300px" /> 
+<img src="https://github.com/Helmstk1/BasicArduino/blob/main/images/LED%20Blink.PNG?raw=true" width="300px" /> 
 
 Image credit belongs to [Troy Baverstock](https://troybaverstock.com/learn/fritzing-circuit-diagrams/)
 
